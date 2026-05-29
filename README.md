@@ -46,18 +46,6 @@ It enables researchers, developers, and teams to **upload datasets, invite colla
 - 📈 **Metrics**: compute inter-rater reliability to validate results.  
 - 📤 **Export**: get clean CSV/JSON for research or production pipelines.
 
-## 🖼️ Screenshots (Demo)
-<p align="center">
-  <img src="images/image1.png" width="350" />
-  <img src="images/image2.png" width="350" />
-  <img src="images/image3.png" width="350" />
-  <img src="images/image31.png" width="350" />
-  <img src="images/image4.png" width="350" />
-  <img src="images/image5.png" width="350" />
-  <img src="images/image6.png" width="350" />
-  <img src="images/image7.png" width="350" />
-</p>
-
 ## 🏗️ Architecture
 
 <p align="center">

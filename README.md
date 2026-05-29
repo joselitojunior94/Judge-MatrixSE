@@ -31,7 +31,7 @@
 
 ## 🎬 Video and the tool demo
 
-[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20Demo-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20Demo-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7uFKmjv2sNg)
 [![🚀 Try Tool](https://img.shields.io/badge/🚀%20Try%20Tool-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://judgematrixse.netlify.app/)
 
 

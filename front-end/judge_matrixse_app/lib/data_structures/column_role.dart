@@ -1,0 +1,1 @@
+enum ColumnRole { id, text, feature, label, ignore }

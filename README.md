@@ -49,7 +49,7 @@ It enables researchers, developers, and teams to **upload datasets, invite colla
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="images/architecture.png" width="650" alt="Logo"/>
+  <img src="images/architecture.jpeg" width="650" alt="Logo"/>
 </p>
 
 ## 🚀 Quickstart
